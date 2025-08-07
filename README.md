@@ -404,10 +404,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **📧 Email**: himanshu.singh@example.com
+- **📧 Email**: heman3389@gmail.com
 - **💼 LinkedIn**: [linkedin.com/in/himanshu-singh-b7a44013a](https://linkedin.com/in/himanshu-singh-b7a44013a)
 - **🐛 Issues**: [GitHub Issues](https://github.com/GeekYasuo/ai-business-intelligence-platform/issues)
-- **📖 Documentation**: [docs.ai-platform.com](https://docs.ai-platform.com)
 
 ---
 
